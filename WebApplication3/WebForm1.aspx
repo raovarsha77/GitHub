@@ -10,7 +10,7 @@
     <form id="form1" runat="server">
     <div>
     <asp:Button ID="btnSubmit" Text="Submit" runat="server" /> 
-
+  <asp:Button ID="Button1" Text="Submit" runat="server" /> 
 
     </div>
     </form>
